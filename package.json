@@ -1,0 +1,18 @@
+{
+  "name": "ua-avatar-bot",
+  "version": "0.0.1",
+  "description": "This bot will make an avatar with ukrainian flag border from any pic you will send to t.me/ua-avatar-bot.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "kishkoigor",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "jimp": "^0.16.1",
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
